@@ -1,2 +1,2 @@
-# lilac-s-bunny-ears
+# lilacvanitymod
 Lilac's bunny ears, a mod for Terraria using tModLoader
